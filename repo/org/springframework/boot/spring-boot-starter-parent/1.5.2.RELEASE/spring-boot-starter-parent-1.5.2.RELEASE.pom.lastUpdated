@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 05 02:12:15 GMT+01:00 2018
+file\:${project.basedir}/repo/.lastUpdated=1515114733844
+https\://repo.maven.apache.org/maven2/.lastUpdated=1515114735248
+file\:${project.basedir}/repo/.error=
